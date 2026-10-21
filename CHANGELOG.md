@@ -1,5 +1,29 @@
 # Changelog
 
+## [2026.10.18](https://github.com/jdx/mise/releases/tag/v2026.10.18) - 2026-10-21
+
+### 🚀 Features
+
+- **(doctor)** let a project check depend on another check by @jdx in [#14773](https://github.com/jdx/mise/pull/14773)
+
+### 🐛 Bug Fixes
+
+- **(config)** keep tracked .tool-versions recognized under a filename override by @jdx in [#14779](https://github.com/jdx/mise/pull/14779)
+- **(github)** skip .netrc credentials on the asset reachability HEAD by @jdx in [#14786](https://github.com/jdx/mise/pull/14786)
+
+### 📦️ Dependency Updates
+
+- update communique, hk, mr-boxington in mise.lock by @jdx in [#14789](https://github.com/jdx/mise/pull/14789)
+- update jdx/workflows action to v1.1.2 by @renovate[bot] in [#14792](https://github.com/jdx/mise/pull/14792)
+- update mise tools to latest by @renovate[bot] in [#14793](https://github.com/jdx/mise/pull/14793)
+- update aube to v2.8.1 by @renovate[bot] in [#14605](https://github.com/jdx/mise/pull/14605)
+- update rust crate sigstore-verify to 0.15 by @renovate[bot] in [#14783](https://github.com/jdx/mise/pull/14783)
+- lock file maintenance by @renovate[bot] in [#14777](https://github.com/jdx/mise/pull/14777)
+- update github actions by @renovate[bot] in [#14796](https://github.com/jdx/mise/pull/14796)
+- lock file maintenance by @renovate[bot] in [#14797](https://github.com/jdx/mise/pull/14797)
+- update rust crate serde-saphyr to v2 by @renovate[bot] in [#14774](https://github.com/jdx/mise/pull/14774)
+- update node.js to v24.22.0 by @renovate[bot] in [#14798](https://github.com/jdx/mise/pull/14798)
+
 ## [2026.10.17](https://github.com/jdx/mise/releases/tag/v2026.10.17) - 2026-10-20
 
 ### 🚀 Features
